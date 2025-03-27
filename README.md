@@ -1,2 +1,2 @@
 # easycalculator
-easycalculator for everyone 
+Free easycalculator for everyone 
